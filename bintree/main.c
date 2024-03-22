@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "bintree/tree.h"
+#include "tree.h"
 
 void printTree(struct Node *node) {
     if (node == NULL) {
